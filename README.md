@@ -5,6 +5,7 @@ Setting Up a Simple Static Website on GitHub Pages
 Name: Akhila R
 
 USN: 4MH23CA004
+
 Course: Cloud Computing
 Submission Date: 18-11-2025
 GitHub Repository Link:https://akhilaraj01.github.io/Akhila-static-website-cloud-assignment/

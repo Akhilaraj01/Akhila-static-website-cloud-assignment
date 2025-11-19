@@ -1,5 +1,6 @@
 CLOUD COMPUTING ASSIGNMENT REPORT
 
+
 Setting Up a Simple Static Website on GitHub Pages
 
 Name: Akhila R
@@ -19,6 +20,8 @@ Cloud computing provides various services such as storage, hosting, computing po
 This project demonstrates how to create a basic website using HTML and CSS, store it on GitHub, and host it publicly using GitHub Pages, a free cloud-based hosting service offered by GitHub.
 
 
+
+
 2. Objectives:
 The objectives of this assignment are:
 To create a simple static website using HTML and CSS
@@ -27,6 +30,8 @@ To learn version control using GitHub
 To deploy a live website accessible through a public URL
 To document the entire deployment process with screenshots
 To follow cloud hosting best practices
+
+
 
 
 3. Background / Theory:
@@ -52,18 +57,24 @@ JavaScript
 Static assets like images
 GitHub Pages automatically hosts the website using the repository's files, making deployment simple and beginner-friendly.
 
+
+
  
 4. Implementation
+
 
 4.1 Creating Project Files
 Two files were created:
 
+
 🔹 index.html
 Contains the webpage structure and content.
+
 
 🔹 style.css
 Defines the page styling.
 Both files were placed in a single folder.
+
 
 4.2 Uploading Files to GitHub
 
@@ -75,6 +86,7 @@ Both files were placed in a single folder.
       style.css
 5. Commit changes
 
+ 
 4.3 Enabling GitHub Pages
 
 1. Open Repository → Settings
@@ -86,6 +98,8 @@ Both files were placed in a single folder.
 5. GitHub generates a live website URL
 
 
+
+
  
 Example URL:
 https://yourusername.github.io/akhila-static-website/
@@ -93,7 +107,9 @@ https://yourusername.github.io/akhila-static-website/
  
 4.4 Code Used in the Project
 
+ 
 index.html
+
 
 <!DOCTYPE html>
 <html>
@@ -106,6 +122,7 @@ index.html
     <p>Created by Akhila R (USN 4MH23CA004) for Cloud Computing Assignment.</p>
 </body>
 </html>
+
 
 
 
@@ -123,6 +140,8 @@ h1 {
 
 
 
+
+
 5. Results
 The website was successfully deployed on GitHub Pages.
 
@@ -135,7 +154,9 @@ The public URL works on any device
 
 
 
-7. Testing
+
+
+6. Testing
 Testing included:
 
 ✔ Browser Testing
@@ -146,10 +167,12 @@ Ensured CSS loads correctly
 
 
 
+
 ✔ URL Testing
 
 Opened GitHub Pages URL
 Verified that page displays without errors
+
 
 
 
@@ -158,6 +181,8 @@ Verified that page displays without errors
 Confirmed index.html is in project root
 Ensured CSS is linked properly
 No errors found during testing.
+
+
 
 
 
@@ -173,11 +198,15 @@ No configuration or server setup required
 
 
 
+
+
 Challenges:
 
 Correct file placement is important
 Must ensure file structure is correct
 CSS should be in same directory for proper linking
+
+
 
 
 
@@ -190,11 +219,15 @@ GitHub version control
 GitHub Pages deployment
 Cloud-hosted web accessibility
 
+
 The project was successfully completed, and the website is now live using cloud technology.
 
 
 
+
+
 9. References
+
 
 GitHub Pages Documentation
 MDN Web Docs (HTML, CSS)

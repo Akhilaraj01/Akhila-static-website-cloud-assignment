@@ -18,6 +18,7 @@ GitHub Repository Link:https://akhilaraj01.github.io/Akhila-static-website-cloud
 Cloud computing provides various services such as storage, hosting, computing power, and application deployment over the internet. One of the simplest and most practical use cases of cloud hosting is deploying a static website.
 This project demonstrates how to create a basic website using HTML and CSS, store it on GitHub, and host it publicly using GitHub Pages, a free cloud-based hosting service offered by GitHub.
 
+
 2. Objectives:
 The objectives of this assignment are:
 To create a simple static website using HTML and CSS
@@ -26,6 +27,7 @@ To learn version control using GitHub
 To deploy a live website accessible through a public URL
 To document the entire deployment process with screenshots
 To follow cloud hosting best practices
+
 
 3. Background / Theory:
 A static website contains fixed content delivered directly to the user’s browser without server-side processing.
@@ -50,6 +52,7 @@ JavaScript
 Static assets like images
 GitHub Pages automatically hosts the website using the repository's files, making deployment simple and beginner-friendly.
 
+ 
 4. Implementation
 
 4.1 Creating Project Files
@@ -83,6 +86,7 @@ Both files were placed in a single folder.
 5. GitHub generates a live website URL
 
 
+ 
 Example URL:
 https://yourusername.github.io/akhila-static-website/
 
@@ -103,6 +107,8 @@ index.html
 </body>
 </html>
 
+
+
 style.css
 
 body {
@@ -115,6 +121,8 @@ h1 {
     color: #4b4bff;
 }
 
+
+
 5. Results
 The website was successfully deployed on GitHub Pages.
 
@@ -124,6 +132,7 @@ GitHub Pages hosting enabled
 The website loads correctly in the browser
 The page shows a centered heading and a paragraph
 The public URL works on any device
+
 
 
 7. Testing
@@ -136,10 +145,12 @@ Checked on mobile browser
 Ensured CSS loads correctly
 
 
+
 ✔ URL Testing
 
 Opened GitHub Pages URL
 Verified that page displays without errors
+
 
 
 ✔ File Verification
@@ -147,6 +158,7 @@ Verified that page displays without errors
 Confirmed index.html is in project root
 Ensured CSS is linked properly
 No errors found during testing.
+
 
 
 7. Discussion
@@ -160,6 +172,7 @@ Perfect for beginners and students
 No configuration or server setup required
 
 
+
 Challenges:
 
 Correct file placement is important
@@ -167,8 +180,6 @@ Must ensure file structure is correct
 CSS should be in same directory for proper linking
 
 
-
----
 
 8. Conclusion
 
@@ -180,6 +191,8 @@ GitHub Pages deployment
 Cloud-hosted web accessibility
 
 The project was successfully completed, and the website is now live using cloud technology.
+
+
 
 9. References
 

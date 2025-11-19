@@ -30,14 +30,14 @@ To follow cloud hosting best practices
 
 
 3. Background / Theory:
-A static website contains fixed content delivered directly to the user’s browser without server-side processing.
+ A static website contains fixed content delivered directly to the user’s browser without server-side processing.
 
-Technologies used:
-HTML (HyperText Markup Language):
-Defines the structure and content of the webpage.
+ Technologies used:
+ HTML (HyperText Markup Language):
+ Defines the structure and content of the webpage.
 
-CSS (Cascading Style Sheets):
-Provides styling such as color, alignment, and layout.
+ CSS (Cascading Style Sheets):
+ Provides styling such as color, alignment, and layout.
 
 GitHub:
 A cloud-based code hosting and version control platform.
